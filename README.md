@@ -31,8 +31,10 @@ The project is designed to be adaptable to any topic. In our case, we have chose
 - Standardization and normalization of entities to ensure consistency in the graph.
 
 
----
+#### Designed by Francesca Daniele e Marco Leto
 
-#### This project has been developed as a coursework assigned for the class "Information Retrieval and Natural Language Processing", Fall 2024 (Instructor: prof. Andrea Tagarelli) at the DIMES Department, University of Calabria, Italy 
+-----
 
-#### Designed by Francesca Daniele e Marco Leto 
+### Acknowledgment
+This project has been developed as a coursework assigned for the class *"Information Retrieval and Natural Language Processing"*, Fall 2024 (Instructor: Prof. Andrea Tagarelli) at the DIMES Department, University of Calabria, Italy.
+
